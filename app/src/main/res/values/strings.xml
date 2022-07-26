@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">NFC_Scanner</string>
+    <string name="app_name">Wypożyczalnia strojów</string>
+    <string name="wypozycz_strojj">Wypożycz strój</string>
+    <string name="zwroc_stroj">Zwróc strój</string>
+    <string name="dodaj_stroj">Dodaj strój</string>
+    <string name="nameText">Imię</string>
+    <string name="surnameText">Nazwisko</string>
+    <string name="addressText">Adres zamieszkania</string>
+
+
 </resources>

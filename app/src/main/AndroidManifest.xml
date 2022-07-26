@@ -14,6 +14,10 @@
         android:theme="@style/Theme.NFC_Scanner"
         tools:targetApi="31">
         <activity
+            android:name=".RentActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
