@@ -6,6 +6,9 @@
     <string name="nameText">Imię</string>
     <string name="surnameText">Nazwisko</string>
     <string name="addressText">Adres zamieszkania</string>
-
+    <string name="numberText">Numer telefonu</string>
+    <string name="termText">Termin wypożyczenia:</string>
+    <string name="costText">Cena</string>
+    <string name="depositText">Kaucja</string>
 
 </resources>
