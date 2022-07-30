@@ -10,5 +10,12 @@
     <string name="termText">Termin wypożyczenia:</string>
     <string name="costText">Cena</string>
     <string name="depositText">Kaucja</string>
+    <string name="pickClient">Wybierz klienta</string>
+    <string name="toText">Do</string>
+    <string name="fromText">Od</string>
+    <string name="priceText">Cena</string>
+    <string name="addOutfits">Dodaj stroje</string>
+    <string name="generateAgreement">Generuj umowę</string>
+
 
 </resources>
